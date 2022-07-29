@@ -191,9 +191,9 @@ span {
   position: absolute;
   top: 0;
   left: 27%;
-  background-image: url(/background.png);
-  width: 73%;
+  background-image: url(/whatsapp-clone-/background.png);
   height: 90%;
+  width: 73%;
 }
 .conversations_text_received {
   display: flex;
